@@ -1,6 +1,6 @@
-### Hi there 👋
-
 [![HitCount](http://hits.dwyl.com/aamibot/aamibot.svg)](http://hits.dwyl.com/aamibot/aamibot)
+
+### Hi there 👋
 
 <!--
 **aamibot/aamibot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
