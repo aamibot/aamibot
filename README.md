@@ -12,5 +12,5 @@ I am a Data Scientist exuberant about solving business problems using machine le
 - 🔭 I’m currently working on predictive maintenance domain.
 - 🌱 I’m currently learning ELK Stack
 - 🤔 I’m looking for help with 3D Deep learning.
-- 📫 How to reach me: https://www.linkedin.com/in/ameer-huzain-k-h-025bb8134
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ameer-huzain-k-h-025bb8134)
 
