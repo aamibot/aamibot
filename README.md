@@ -1,5 +1,3 @@
-[![HitCount](http://hits.dwyl.com/aamibot/aamibot.svg)](http://hits.dwyl.com/aamibot/aamibot)
-
 ### Hi there 👋
 
 <!--
